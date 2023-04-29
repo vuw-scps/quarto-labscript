@@ -6,8 +6,9 @@ Unofficial quarto template for SCPS labscripts
 ---
 title: "random topic: pre-lab reading"
 coursecode: rand101
-date: "2023-03-30"
-date-format: "YYYY, Tri 1"
+year: 2023
+trimester: 1
+date: today
 ---
      
 ## Lab objectives

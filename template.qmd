@@ -3,7 +3,7 @@ title: "random topic: pre-lab reading"
 coursecode: rand101
 year: 2023
 trimester: 1
-lastchanged: \today
+date: today
 ---
 
 ## Lab objectives

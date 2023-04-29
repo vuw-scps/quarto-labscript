@@ -1,6 +1,4 @@
 format: 
-  docx: 
-    reference-doc: template.docx
   pdf:
     documentclass: article
     mainfont: "Minion 3"
@@ -16,9 +14,12 @@ format:
       - totalwidth=6.5in
     include-in-header:
       - custom.tex
+      - _macros.tex
     template-partials:
       - before-body.tex
     keep-tex: false 
     latex-tinytex: false
+  docx: 
+    reference-doc: template.docx
 pdf-engine: xelatex
 shift-heading-level-by: -1

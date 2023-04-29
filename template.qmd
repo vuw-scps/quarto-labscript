@@ -1,8 +1,9 @@
 ---
 title: "random topic: pre-lab reading"
 coursecode: rand101
-date: "2023-03-30"
-date-format: "YYYY, Tri 1"
+year: 2023
+trimester: 1
+lastchanged: \today
 ---
 
 ## Lab objectives
@@ -35,7 +36,7 @@ Vapor e genua **gaudia occasus**, fit pars unius male manibusque presserat obit,
 
 ## Overview of the equipment
 
-![Photograph of the equipment available.](figures/equipment.png){width=60% fig-align="center"}
+![Photograph of the equipment available.](figures/equipment.jpg){width=70% fig-align="center"}
 
 Pes egit inopem loqui, ille Iunone *Iuppiter* postquam es. Sine mediis, patrios oppositas pignora trementi et modo per nunc, domum damnandus turribus vincas.
 
@@ -49,6 +50,17 @@ Veneris tantum Titania et montes clademque moenia condidit tangit. Gemmis errat 
 
 ## Principle of the experiment
 
+Casus leve lumina saepe regionis dubito:
+
+$$
+\begin{aligned}
+\Div\vecE &= \rho/\varepsilon_0\\
+\Div\vecB &= 0\\
+\Curl\vecE &= -\frac{\partial\vecB}{\partial t}\\
+\Curl\vecB &= \mu_0\vecJ + \mu_0\varepsilon_0 \frac{\partial \vecE}{\partial t}
+\end{aligned}
+$$ {#eq-maxwell}
+
 ### Objectives
 
 1. Quod esse corpore pigeat
@@ -59,6 +71,15 @@ Veneris tantum Titania et montes clademque moenia condidit tangit. Gemmis errat 
 ### Background theory
 
 Pes egit inopem loqui, ille Iunone *Iuppiter* postquam es. Sine mediis, patrios oppositas pignora trementi et modo per nunc, domum damnandus turribus vincas.
+
+```{.python}
+import numpy as np
+from numpy import exp, pi, sqrt, linspace
+
+def model_peak(x, A, sigma, x0):
+    prefactor = A / (sigma*sqrt(2*np.pi))
+    return prefactor*exp(-0.5*(x-x0)**2 / sigma**2)
+```
 
 ## Exploration phase in the lab (\~1 hour)
 

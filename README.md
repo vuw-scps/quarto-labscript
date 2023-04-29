@@ -38,7 +38,7 @@ compiled with
 
 becomes
 
-[![](preview.png)](template.pdf)
+[![](preview.png)](preview.pdf)
 
 ## Get started
 

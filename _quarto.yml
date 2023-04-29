@@ -1,4 +1,6 @@
 format: 
+  docx: 
+    reference-doc: template.docx
   pdf:
     documentclass: article
     mainfont: "Minion 3"

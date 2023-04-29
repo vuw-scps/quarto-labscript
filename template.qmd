@@ -1,0 +1,73 @@
+---
+title: "random topic: pre-lab reading"
+coursecode: rand101
+date: "2023-03-30"
+date-format: "YYYY, Tri 1"
+---
+
+## Lab objectives
+
+In fertur longeque nocte *dum genetrici salibus* relictus moverent. Perdam pactaeque. Poma **veluti**, percaluit Iovis, et! Modo oblitus quamvis successus inhonorati terrae *propioris apertum*.
+
+_Skills and concepts:_
+
+- Nec tabe ignibus de Glaucus
+- Quae vincloque eruit est liquet deus
+- Si tamen aequora neque oblectamina mentes
+- Et fuit inque confluat petam
+- Damnum dies indigenae nomenque viribus inquit\
+
+
+:::{.callout-warning title="RISKS & HAZARDS"} 
+{{< include _safety_general.qmd >}} 
+\
+{{< include _safety_electronics.qmd >}}
+:::
+
+{{< pagebreak >}}
+
+
+Vapor e genua **gaudia occasus**, fit pars unius male manibusque presserat obit, in *fas equosque*. Audax hic veris insolida ambit transformata creber. Sibi forti, diu in ille aquas venere, **eripuit Neptune quercus**. Tamen ignes iam, redit partes quae, cum munus vertitur linguae.
+
+1. Quod esse corpore pigeat
+1. Inquam inprobe caecaque
+1. Nomen falso
+1. Illa Mavortis tempore arva
+
+## Overview of the equipment
+
+![Photograph of the equipment available.](figures/equipment.png){width=60% fig-align="center"}
+
+Pes egit inopem loqui, ille Iunone *Iuppiter* postquam es. Sine mediis, patrios oppositas pignora trementi et modo per nunc, domum damnandus turribus vincas.
+
+### Data acquisition: brief background
+
+Non facto pellite **iaceret**: edidit tibi molibar premens hic mea maciem quae, quid. Et rictus quoque hinc Dindymaque ventos in Argolicosque forma super.
+
+#### Commisit videt?
+
+Veneris tantum Titania et montes clademque moenia condidit tangit. Gemmis errat levis minuendo mitissima aures ingemuere eripiam ordinibus cervice sacerdotis; rigore victima Athamas; per ponit.
+
+## Principle of the experiment
+
+### Objectives
+
+1. Quod esse corpore pigeat
+2. Inquam inprobe caecaque
+3. Nomen falso
+
+
+### Background theory
+
+Pes egit inopem loqui, ille Iunone *Iuppiter* postquam es. Sine mediis, patrios oppositas pignora trementi et modo per nunc, domum damnandus turribus vincas.
+
+## Exploration phase in the lab (\~1 hour)
+
+Your task is to fulgentem telo patria carnes cum ut:
+
+1. Hunc vadorum Bybli ante hic
+2. Sidera medias avia ipsa Diomedeos e Ultor
+3. Adnuit ut inque notitiam paulum optabile Clymene
+4. Casus leve lumina saepe regionis dubito
+5. Enim ad flammis faciles verum redemit
+6. Corporeasque patre

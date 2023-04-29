@@ -1,0 +1,22 @@
+format: 
+  pdf:
+    documentclass: article
+    mainfont: "Minion 3"
+    linkcolor: black
+    urlcolor: black
+    toccolor: black
+    filecolor: black
+    citecolor: black
+    hyperrefoptions:
+      - hidelinks
+    geometry:
+      - totalheight=9.5in
+      - totalwidth=6.5in
+    include-in-header:
+      - custom.tex
+    template-partials:
+      - before-body.tex
+    keep-tex: false 
+    latex-tinytex: false
+pdf-engine: xelatex
+shift-heading-level-by: -1

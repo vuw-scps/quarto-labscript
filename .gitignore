@@ -51,3 +51,4 @@ rsconnect/
 /.quarto/
 template.pdf
 quarto-labscript.Rproj
+*.aux
